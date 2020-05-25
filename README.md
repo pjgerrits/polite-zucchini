@@ -20,7 +20,7 @@ Stackbit Ampersand Theme original README is located [here](./README.theme.md).
 
 1. run the following command to fetch additional site contents from Stackbit if needed:
 
-        npx @stackbit/stackbit-pull --stackbit-pull-api-url=__STACKBIT_PULL_API_URL__
+        npx @stackbit/stackbit-pull --stackbit-pull-api-url=https://api.stackbit.com/pull/5ecbf45f484b2600129ea290
 
 1. Starts a development server
 
